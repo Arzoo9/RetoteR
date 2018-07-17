@@ -1,0 +1,22 @@
+#cart{
+			margin-top: 11vh;
+		padding:0 1%;
+		display: table;
+		width: 98%;
+		border: 0px solid black;
+}
+.Items_Display{
+	width: 270px;
+	text-align: left;
+	float: left;
+	margin-left: 1.5%;
+	border: 2px solid whitesmoke;
+	margin-bottom: 2%;
+	height: 200px;
+}
+.Chocolate_Name{
+	text-align: center;
+	font-weight: bold;
+	font-size: 22px;
+	min-height: 5vh;
+}
