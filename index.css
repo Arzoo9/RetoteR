@@ -1,25 +1,25 @@
 body{
-	color: #421d03;
+	color: black;
 	margin:0;
 }
 header{
 	height: 100vh;
 	width: 24%;
-	background-color: #421d03;
+	background-color: #535f72;
 	position: fixed;
 	float: left;
 	top: 0;
 	left: 0;
 }
 #CompanyName{
-	margin-top: 15vh;
-	margin-left: 7%;
+	margin-top: 10vh;
+	margin-left: 10%;
 	margin-bottom: 10vh;
 	color: white;
-	font-size: 42px;
+	font-size: 65px;
 }
 .Menulist{
-	margin-left: 7%;
+	margin-left: 10%;
 	width:80%;
 	height: 6vh;
 	border: 0px solid white;
@@ -29,7 +29,7 @@ header{
 	padding-left: 7%;
 }
 .Menulist:hover{
-	color: #421d03;
+	color: #535f72;
 	background-color: white;
 	font-weight: bold;
 } 
@@ -55,7 +55,7 @@ h1{
 	height: 6vh;
 	font-family: sans-serif;
 	color: white;
-	background-color: #421d03;
+	background-color: #535f72;
 	margin-left: 5%;
 	border: none;
 	cursor: pointer;
